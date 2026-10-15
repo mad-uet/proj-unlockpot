@@ -1,0 +1,8 @@
+FBus =~ Cap.Bus_1 + Cap.Bus_2 + Cap.Bus_3 + Cap.Bus_4 + Cap.Bus_5 + Cap.Bus_6 + Cap.Bus_7 + Cap.Bus_8
+FFin =~ Cap.Fin_1 + Cap.Fin_2 + Cap.Fin_3 + Cap.Fin_4 + Cap.Fin_5 + Cap.Fin_6 + Cap.Fin_7
+FHR =~ Cap.HR_1 + Cap.HR_2 + Cap.HR_3 + Cap.HR_4 + Cap.HR_5 + Cap.HR_6 + Cap.HR_7
+FLI =~ Cap.LI_2 + Cap.LI_3 + Cap.LI_5 + Cap.LI_6
+FMkg =~ Cap.Mkg_1 + Cap.Mkg_2 + Cap.Mkg_4
+FOM =~ Cap.OM_1 + Cap.OM_2 + Cap.OM_3 + Cap.OM_4 + Cap.OM_5 + Cap.OM_6 + Cap.OM_7 + Cap.OM_8 + Cap.OM_9
+FPM =~ Cap.PM_1 + Cap.PM_2 + Cap.PM_3 + Cap.PM_4 + Cap.PM_5 + Cap.PM_6
+FProc =~ Cap.Proc_1 + Cap.Proc_2 + Cap.Proc_3 + Cap.Proc_4 + Cap.Proc_5

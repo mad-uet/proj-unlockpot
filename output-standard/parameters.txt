@@ -1,0 +1,7 @@
+seed: 20261104
+N: 829; p: 49; latent correlation: 0.30; loading: 0.75
+cut points: -1.2, -0.4, 0.4, 1.2; no simulated missingness in analysis sample
+Final PCA: Pearson, eigenvalue > 1 and direct oblimin; not common-factor EFA
+Preliminary: independent 438 x 52 Table 1 input, seed=20261105; screening flags only
+CFA WLSMV, CR, AVE, Pearson HTMT and conventional Mode A PLS with 1000 bootstrap executed
+No common-factor exploratory EFA, no original data replication; see extended-parameters.txt

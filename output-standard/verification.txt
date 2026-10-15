@@ -1,0 +1,8 @@
+Input checks: final 829 x 49; preliminary 438 x 52, all unique indicator codes.
+Cached spreadsheet group scores: 8/8 agree with R; scoring scenarios: 7/7 agree with R.
+CFA: converged and admissible; HTMT pairs: 28; PLS structural paths: 40.
+Bootstrap: 1000 attempts; 1000 successful; 0 failed, no redraws.
+Bootstrap means, sample standard errors and type-7 percentile limits independently recomputed in Python for all 40 paths.
+XLSX ZIP checksums and every XML member parse successfully.
+All local links in both HTML files exist.
+Excel/LibreOffice formula recalculation has NOT been verified.

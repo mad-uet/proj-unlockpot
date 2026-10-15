@@ -1,0 +1,19 @@
+# Bo qua thu vien R cuc bo cua goi phan tich (tao boi analysis/setup.R)
+analysis/.library/
+
+# Bo qua thu muc dau ra moi cua moi luot chay phan tich
+analysis/output/
+output-rerun/
+output*/
+
+# Bo qua bo dem cua Python va R
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+
+# Ngoai le: giu lai dau ra da giao va bang moc trong goi
+!output-standard/
+!output-standard/**
+!baseline/
+!baseline/**

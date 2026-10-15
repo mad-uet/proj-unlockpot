@@ -1,0 +1,4 @@
+Tình huống,Tám câu trả lời nhóm kinh doanh,Hợp lệ,Điểm mức độ quan trọng,Trạng thái,Mã tình huống R
+Đủ dữ liệu,4; 4; 4; 4; 4; 4; 4; 4,8/8,32 / 8 = 4,Đủ dữ liệu,du_8_cau
+Thiếu một ô,trống; 4; 4; 4; 4; 4; 4; 4,7/8,Không có điểm,Thiếu hoặc không hợp lệ,thieu_1_cau
+Nhập giá trị 6,6; 4; 4; 4; 4; 4; 4; 4,7/8,Không có điểm,Thiếu hoặc không hợp lệ,nhap_6

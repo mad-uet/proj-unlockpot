@@ -1,0 +1,50 @@
+group,group_vi,indicator,label_vi
+Bus,Kinh doanh,Cap-Bus_1,Tôn trọng quyền của các bên liên quan ngoài quy định pháp luật
+Bus,Kinh doanh,Cap-Bus_2,Danh tiếng tốt
+Bus,Kinh doanh,Cap-Bus_3,Nghiên cứu môi trường thị trường
+Bus,Kinh doanh,Cap-Bus_4,Chú trọng xây dựng và duy trì giá trị thương hiệu
+Bus,Kinh doanh,Cap-Bus_5,Quan hệ khách hàng tốt
+Bus,Kinh doanh,Cap-Bus_6,Chiến lược dài hạn và có hệ thống
+Bus,Kinh doanh,Cap-Bus_7,Mạng lưới quan hệ vững chắc với các bên liên quan
+Bus,Kinh doanh,Cap-Bus_8,Đối sánh hiệu quả
+Fin,Tài chính,Cap-Fin_1,Lịch sử tín dụng và tài sản vật chất tốt
+Fin,Tài chính,Cap-Fin_2,Chính sách đầu tư chính thức
+Fin,Tài chính,Cap-Fin_3,Thanh toán đúng hạn mọi khoản phải trả
+Fin,Tài chính,Cap-Fin_4,Kiểm toán định kỳ có phản hồi
+Fin,Tài chính,Cap-Fin_5,Kỹ thuật đánh giá rủi ro khách hàng đã được kiểm chứng
+Fin,Tài chính,Cap-Fin_6,Đánh giá đầu tư định lượng
+Fin,Tài chính,Cap-Fin_7,Sự phù hợp giữa nguồn vốn và sử dụng vốn
+HR,Nguồn nhân lực,Cap-HR_1,Mô tả công việc rõ ràng
+HR,Nguồn nhân lực,Cap-HR_2,Quyền tự quyết rộng về cách làm việc
+HR,Nguồn nhân lực,Cap-HR_3,Đào tạo nhân viên kỹ lưỡng
+HR,Nguồn nhân lực,Cap-HR_4,Đào tạo giá trị và thái độ của nhân viên
+HR,Nguồn nhân lực,Cap-HR_5,Chế độ lương thưởng phúc lợi và thăng tiến hợp lý
+HR,Nguồn nhân lực,Cap-HR_6,Cách thức khả thi để tạo động lực cho nhân viên
+HR,Nguồn nhân lực,Cap-HR_7,Cơ chế phát triển và theo dõi trách nhiệm từng vị trí
+LI,Học hỏi và đổi mới,Cap-LI_2,Chia sẻ nguồn lực với tổ chức chuyên môn
+LI,Học hỏi và đổi mới,Cap-LI_3,Cơ sở dữ liệu tri thức từ kinh nghiệm trước đây
+LI,Học hỏi và đổi mới,Cap-LI_5,Chú trọng có được quyền sở hữu trí tuệ
+LI,Học hỏi và đổi mới,Cap-LI_6,Bảo vệ sở hữu trí tuệ bằng sáng chế hoặc bản quyền
+Mkg,Tiếp thị,Cap-Mkg_1,Nghiên cứu thị trường đầy đủ
+Mkg,Tiếp thị,Cap-Mkg_2,Hồ sơ kinh nghiệm dự án phong phú
+Mkg,Tiếp thị,Cap-Mkg_4,Đánh giá tiềm năng và đe dọa từ các bên liên quan
+OM,Quản lý tổ chức,Cap-OM_1,Hệ thống tích hợp hoạt động kinh doanh chuẩn hóa
+OM,Quản lý tổ chức,Cap-OM_2,Hệ thống kiểm toán đáng tin cậy
+OM,Quản lý tổ chức,Cap-OM_3,Hệ thống thực hiện hoạt động kinh doanh chuẩn hóa
+OM,Quản lý tổ chức,Cap-OM_4,Giao tiếp hiệu quả với các bên liên quan
+OM,Quản lý tổ chức,Cap-OM_5,Cơ cấu báo cáo chính thức
+OM,Quản lý tổ chức,Cap-OM_6,Quy trình phù hợp về công vụ quản lý chất lượng và tài chính
+OM,Quản lý tổ chức,Cap-OM_7,Công cụ quản lý mới nhất
+OM,Quản lý tổ chức,Cap-OM_8,Cơ chế tin cậy với khách hàng
+OM,Quản lý tổ chức,Cap-OM_9,Tuân thủ tiêu chuẩn quốc tế và địa phương về phát triển bền vững
+PM,Quản lý dự án,Cap-PM_1,Đánh giá định kỳ kết quả thực hiện của nhà thầu phụ và nhà cung cấp
+PM,Quản lý dự án,Cap-PM_2,Đánh giá định kỳ tiến độ dự án
+PM,Quản lý dự án,Cap-PM_3,Cơ cấu quản lý dự án rõ ràng
+PM,Quản lý dự án,Cap-PM_4,Cách kiểm soát kết quả thực hiện dự án rõ ràng
+PM,Quản lý dự án,Cap-PM_5,Kiểm soát chi phí dự án
+PM,Quản lý dự án,Cap-PM_6,Kiểm soát chất lượng dự án
+Proc,Mua sắm,Cap-Proc_1,Đánh giá kỹ nhà cung cấp trước khi lựa chọn
+Proc,Mua sắm,Cap-Proc_2,Quy trình hoặc nền tảng mua sắm tự động
+Proc,Mua sắm,Cap-Proc_3,Chiến lược mua sắm dự án
+Proc,Mua sắm,Cap-Proc_4,Xây dựng cam kết của lãnh đạo với nhà cung cấp
+Proc,Mua sắm,Cap-Proc_5,Quan hệ hợp đồng dài hạn với nhà cung cấp

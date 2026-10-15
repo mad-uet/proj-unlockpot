@@ -1,0 +1,6 @@
+seed: 20261105
+N: 438; source: Table 1 pp. 6-7; p: 52
+latent correlation: 0.30; loading: 0.75; cut points: -1.2, -0.4, 0.4, 1.2
+screening flag: CITC < 0.50 AND alpha_if_deleted > alpha_before + 1e-6
+flags are review signals only; no iterative deletion; final input remains 49 Appendix F indicators
+PCA direct oblimin components retained: 8

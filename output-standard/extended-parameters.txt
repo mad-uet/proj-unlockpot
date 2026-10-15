@@ -1,0 +1,9 @@
+PCA Pearson, retain eigenvalue > 1, direct oblimin via GPArotation default gamma=0.
+CFA: eight correlated factors, all 49 indicators ordinal, WLSMV, delta, std.lv=TRUE.
+CFA CR and AVE use fully standardized loadings and residuals of latent responses.
+HTMT: arithmetic means of absolute Pearson correlations; descriptive point estimates, no HTMT bootstrap.
+PLS: traditional Mode A, path weighting, scaled=TRUE, tol=1e-7, maxiter=300.
+PLS: five single-indicator role dummies -> all eight composites, no other predictors.
+PLS bootstrap: 1000 pre-generated case resamples, seed=20261106, empirical 2.5/97.5 percentile intervals; at most two workers, no redraws. See status/counts for convergence.
+PLS is not PLSc or the same estimator/model as ordinal CFA; no causal interpretation.
+No project type / years predictors or tuning for original article results.
